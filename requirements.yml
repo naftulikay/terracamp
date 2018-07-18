@@ -1,0 +1,4 @@
+---
+- src: naftulikay.google-cloud-sdk
+- src: naftulikay.terraform
+- src: naftulikay.vagrant-base

@@ -1,0 +1,5 @@
+/.ansible/galaxy-roles
+/.vagrant
+
+.terraform
+terraform.tfstate
